@@ -1,8 +1,9 @@
 # site-web-cryptographie
 
 ## Introduction
-Le code source du site n'est pas public, cependant, bous pouvez le retrouver à l'adresse suivante : https://sancy.iut-clermont.uca.fr/~lafourcade/site-web-cryptographie/src/Enigma/.  
+Le code source n'a pas été rendu public, cependant, vous pouvez le retrouver à l'adresse suivante : sancy.iut-clermont.uca.fr/~lafourcade/site-web-cryptographie/src/Enigma/.  
 
+Le site a été développé grâce aux techniques suivantes : HTML, Css, Javascript, Php et Sqlite.  
 
 Le site consiste en un site ludique abordant le thème de la cryptographie. Il permet d'aborder différents thèmes de la cryptographie, en reprenant certaines énigmes du livre "25 énigmes ludiques pour s'initier à la cryptographie" de Monsieur Pascal Lafourcade.  
 
