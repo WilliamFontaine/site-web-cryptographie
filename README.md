@@ -24,4 +24,4 @@ Un classement est aussi disponible. Il répertorie pour toutes les énigmes et c
 
 Un système du groupe est aussi disponible sur le site, si vous avez les droits suffisants, vous pouvez créer des groupes. Vous pouvez cependant rejoindre des groupes quel que soit votre rôle. Les groupes vous permettent de visualiser un classement des membres de ce groupe uniquement. Ces groupes sont particulièrement utiles en classe.  
 
-Les utilisateurs, indices, groupes sont tous stockés en base de données.
+Les utilisateurs, indices et groupes sont tous stockés en base de données.
