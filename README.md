@@ -8,7 +8,10 @@ Le site a été développé grâce aux techniques suivantes : HTML, Css, Javascr
 
 Le site consiste en un site ludique abordant le thème de la cryptographie. Il permet d'aborder différents thèmes de la cryptographie, en reprenant certaines énigmes du livre "25 énigmes ludiques pour s'initier à la cryptographie" de Monsieur Pascal Lafourcade.  
 
-Le site a été réalisé dans le contexte d'un projet tutoré de 2ème année de DUT informatique (UCA). Nous étions une équipe de 5 étudiants et notre tuteur était Monsieur Pascal Lafourcade. Je me suis également vu confier le rôle de chef de projet pour ce projet.
+Le site a été réalisé dans le contexte d'un projet tutoré de 2ème année de DUT informatique (UCA). Nous étions une équipe de 5 étudiants et notre tuteur était Monsieur Pascal Lafourcade. Je me suis également vu confier le rôle de chef de projet pour ce projet.  
+
+L'axe principale du site est le cöté dynamique de chacune des énigmes. Il a fallut rendre générique toutes les énigmes disponibles pour pouvoir les rendre dynamiques, à chaque fois que la page est rechargée, les valeurs de l'énigme changent, mais le principe cryptographique reste le même.  
+
 
 ## Précisions sur le site
 Un système de login est intégré au site pour pouvoir sauvegarder la progression et les points d'un joueur dans la réalisation des différentes énigmes.  
