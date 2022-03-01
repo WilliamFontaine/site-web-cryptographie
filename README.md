@@ -1,7 +1,8 @@
 # site-web-cryptographie
 
 ## Introduction
-Le code source n'a pas été rendu public, cependant, vous pouvez le retrouver à l'adresse suivante : sancy.iut-clermont.uca.fr/~lafourcade/site-web-cryptographie/src/Enigma/.  
+Le code source n'a pas été rendu public, cependant, vous pouvez le retrouver à l'adresse suivante :  
+https://sancy.iut-clermont.uca.fr/~lafourcade/site-web-cryptographie/src/Enigma/  
 
 Le site a été développé grâce aux techniques suivantes : HTML, Css, Javascript, Php et Sqlite.  
 
